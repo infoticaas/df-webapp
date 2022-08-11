@@ -1,7 +1,7 @@
 numpy
 pandas
-ipywidgets
 matplotlib
-voila
 IPython
 ipykernel
+ipywidgets
+voila
